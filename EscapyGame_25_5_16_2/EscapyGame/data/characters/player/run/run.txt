@@ -1,0 +1,10 @@
+run1	60
+run2	60
+run3	60
+run4	60
+run5	60
+run6	60
+run7	60
+run8	60
+run9	60
+run10	60

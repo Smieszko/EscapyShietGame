@@ -1,0 +1,6 @@
+landing1	300
+landing2	300
+landing3	300
+landing4	300
+landing5	300
+landing6	300

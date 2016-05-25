@@ -1,0 +1,8 @@
+walk1	60
+walk2	60
+walk3	60
+walk4	60
+walk5	60
+walk6	60
+walk7	60
+walk8	60
